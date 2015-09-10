@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Adyax feature feature.
+ */
+
+include_once 'adyax_feature.features.inc';
